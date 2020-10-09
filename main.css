@@ -1,0 +1,20 @@
+html {           /* style for everything within html tags */
+  font-family: "Open Sans", sans-serif; 
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 3px 3px 1px grey;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;          /* space around outside of element */
+  background-color: #CED8F6;
+  padding: 0 20px 20px 20px; /* space just around the content */
+  border: 5px solid black; /* space around outside of element */
+}
+
+
+
